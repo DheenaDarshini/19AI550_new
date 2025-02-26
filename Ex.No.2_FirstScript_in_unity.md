@@ -36,8 +36,7 @@ public class FirstScript : MonoBehaviour
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/1621abf8-4fb5-4322-b882-058aa0356b8b)
-
+![Screenshot 2025-02-26 155830](https://github.com/user-attachments/assets/21c56738-fd52-48df-96bb-32ccde09a241)
 
 ### Result:
 Thus the unity installation was completed sucessfully.
