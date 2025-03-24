@@ -4,6 +4,7 @@
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
+
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., Pathfinding).
 
 2. Set Up the Scene by Create the Ground (Plane or Terrain)
@@ -12,6 +13,7 @@ To write a program to pathfinding using AI navigation
 3. Add Obstacles (Cubes or Walls)
   Go to: GameObject → 3D Object → Cube  Scale it: (3, 3, 1) (for a wall-like structure)
   Position it: Place it anywhere to block AI movement Rename it: "Obstacle"  Duplicate: Ctrl + D to create multiple obstacles ,tag the obstacke with same name.
+
 4.Bake the NavMesh
 Go to: Window → AI → Navigation , Select Ground: Click on your Ground object ,
 In Navigation Window: Check ✅ "Navigation Static"  or Add component Navigation surface and Bake
